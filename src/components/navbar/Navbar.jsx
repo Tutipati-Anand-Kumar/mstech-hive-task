@@ -212,7 +212,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
-        <div className={`${mobileMenuBg} absolute right-4 top-16 rounded-lg px-4 py-3 space-y-2 shadow-lg w-44 z-50 overflow-hidden`}>
+        <div className={`${mobileMenuBg} absolute right-1 top-16 rounded-lg px-4 py-3 space-y-2 shadow-lg w-44 z-50 overflow-hidden`}>
 
           {/* Mobile Home */}
           <NavLink
