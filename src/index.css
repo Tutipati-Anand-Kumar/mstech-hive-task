@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@keyframes turtleMove {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(25px); }
+}
+
+.animate-turtle {
+  animation: turtleMove 4s ease-in-out infinite;
+}
