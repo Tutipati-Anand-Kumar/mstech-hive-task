@@ -246,14 +246,23 @@ const Home = () => {
               >
                 <div className="text-[#facc15]">
                   {
-                    // Show correct icon based on key
-                    item.key === "hospital" ? <Building2 className="w-8 h-8 mx-auto mb-3" /> :
-                    item.key === "school" ? <GraduationCap className="w-8 h-8 mx-auto mb-3" /> :
-                    item.key === "restaurant" ? <Utensils className="w-8 h-8 mx-auto mb-3" /> :
-                    item.key === "retailShop" ? <ShoppingBag className="w-8 h-8 mx-auto mb-3" /> :
-                    item.key === "construction" ? <Construction className="w-8 h-8 mx-auto mb-3" /> :
-                    item.key === "itCompany" ? <Laptop className="w-8 h-8 mx-auto mb-3" /> :
-                    null
+                    item.key === "hospital" ? (
+                      <Building2 className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "school" ? (
+                      <GraduationCap className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "college" ? (
+                      <GraduationCap className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "restaurant" ? (
+                      <Utensils className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "office" ? (
+                      <Briefcase className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "retailShop" ? (
+                      <ShoppingBag className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "construction" ? (
+                      <Construction className="w-8 h-8 mx-auto mb-3" />
+                    ) : item.key === "itCompany" ? (
+                      <Laptop className="w-8 h-8 mx-auto mb-3" />
+                    ) : null
                   }
                 </div>
 
