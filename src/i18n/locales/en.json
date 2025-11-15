@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Home",
+    "industries": "Industries",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "aboutText": "We help businesses across industries automate their workflows and accelerate growth through cutting-edge technology solutions."
+  },
+  "industries": {
+    "hospital": "Hospital",
+    "school": "School",
+    "college": "College",
+    "restaurant": "Restaurant",
+    "office": "Office",
+    "retailShop": "Retail Shop",
+    "construction": "Construction",
+    "logistics": "Logistics",
+    "itCompany": "IT Company",
+    "ecommerce": "E-commerce",
+    "clinicLab": "Clinic / Lab"
+  },
+
+  "home": {
+  "heroTitle1": "Automate Work.",
+  "heroTitle2": "Accelerate Growth.",
+  "heroSubtitle": "Transform your business operations with intelligent automation solutions tailored for your industry.",
+  "exploreServices": "Explore Services",
+  "getStarted": "Get Started",
+
+  "whyChooseTitle": "Why Choose MS Tech Hive?",
+  "whyChooseSubtitle": "We combine cutting-edge technology with industry expertise to deliver solutions that drive real results.",
+
+  "why1Title": "Automation Excellence",
+  "why1Desc": "Streamline your workflows with cutting-edge automation solutions",
+
+  "why2Title": "Growth Acceleration",
+  "why2Desc": "Scale your business operations with intelligent technology",
+
+  "why3Title": "Industry Expertise",
+  "why3Desc": "Specialized solutions for 12+ different industries",
+
+  "why4Title": "Proven Results",
+  "why4Desc": "Delivering measurable outcomes for our clients",
+
+  "industriesTitle": "Industries We Serve",
+  "industriesSubtitle": "Specialized automation solutions across multiple industries",
+
+  "industryHealthcare": "Healthcare",
+  "industryEducation": "Education",
+  "industryRestaurant": "Restaurant",
+  "industryRetail": "Retail",
+  "industryConstruction": "Construction",
+  "industryIT": "IT Company",
+
+  "viewAllIndustries": "View All Industries",
+
+  "readyTitle": "Ready to Transform Your Business?",
+  "readySubtitle": "Join hundreds of businesses that have accelerated their growth with our automation solutions.",
+  "startJourney": "Start Your Journey"
+ }
+
+}
